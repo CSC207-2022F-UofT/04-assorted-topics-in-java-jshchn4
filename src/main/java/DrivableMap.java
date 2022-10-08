@@ -37,8 +37,6 @@ class DrivableMap {
     }
 
 
-
-
     /* TODO: Write a method named hasFasterThan that takes an int (a speed)
      *       and returns true iff there is at least one item in drivable_map
      *       that has a maxSpeed >= the speed given.
