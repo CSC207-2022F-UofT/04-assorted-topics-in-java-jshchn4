@@ -31,8 +31,9 @@ class DrivableMap {
         if (drivable_map.containsKey(id)) {
             drivable_map.put(id, item);
             return true;
+        } else {
+            return false;
         }
-        return false;
     }
 
 
